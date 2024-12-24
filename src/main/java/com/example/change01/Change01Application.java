@@ -11,6 +11,8 @@ public class Change01Application {
         System.out.println("change2");
         System.out.println("change3");
         System.out.println("change4");
+        System.out.println("change5");
+        System.out.println("change6");
         SpringApplication.run(Change01Application.class, args);
     }
 
